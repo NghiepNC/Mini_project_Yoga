@@ -21,7 +21,6 @@ while (True):
 		
 	cv2.imshow("hienthi", image)
 
-	# cv2.waitKey(5)
 	if cv2.waitKey(5) & 0xff == ord("q"):
 		break
 	cv2.imwrite("tuthechienbinh.jpg",image)
