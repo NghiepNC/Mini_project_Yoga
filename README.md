@@ -4,7 +4,7 @@ To get started with a simple application project, familiarize yourself with *Com
 Now I will show you about running *Mediapipe Pose* to practice 3 basic Yoga exercises (Warrior pose, Tree pose, Triangle pose) and some workouts: Dumbbell Shoulder Press, Barbell_cruls
 
 #### **Step 1**: install Mediapipe on your computer
-via the command: 'pip install mediapipe'   .(When this project runs is the version mediapipe 0.8.5 | version python3.7)
+via the command: 'pip install mediapipe'   .(When this project runs is the version mediapipe 0.8.5.You can run from version 0.8.6 back with version python3.7)
 #### **Step 2** Clone git 
 Requires enhanced library files **practice11**, folder **yoga**
 #### **Step 3**: Runcode
